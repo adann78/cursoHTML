@@ -1,0 +1,27 @@
+.imagenes{
+    display: flex; /* Activa el modo flexible */
+  justify-content: space-between; /* Espacia las imágenes equitativamente */
+  gap: 10px;
+}
+.titulo{
+    text-align: center;
+    font-family: Canterbury;
+    font-size: 50px;
+    
+    color: red;     
+    
+}
+h2{ 
+    color: black;
+    font-family: Canterbury;
+    font-size: 38px;
+  
+    font-style:italic;
+    text-align: justify;
+    line-height: 1.5;
+}
+span{
+    color: red;
+    font-size: 20px;
+    text-decoration: underline;
+}
